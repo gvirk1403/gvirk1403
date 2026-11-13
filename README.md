@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ...
 
-- 📫 How to reach me ...email : virkz.gagan@gmail.com
+- 📫 How to reach me ...email : gvirk@fcicanada.com
 
 <!---
 gvirk1403/gvirk1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
